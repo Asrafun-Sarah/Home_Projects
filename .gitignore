@@ -1,0 +1,11 @@
+*
+!Python/
+!Python/**
+!C/
+!C/**
+!C++/
+!C++/**
+!.gitignore
+
+.DS_Store
+.vscode/
