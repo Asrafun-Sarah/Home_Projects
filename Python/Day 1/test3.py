@@ -1,0 +1,5 @@
+print(10+5)
+print(1000-45)
+print(100/5)
+print(3*4)
+print("10 + 5")
